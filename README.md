@@ -16,7 +16,7 @@
 | 단원 | 주제 | 노트 / 실습 링크 |
 |------|------|------------------|
 | 02 | NumPy | [NumPy_01.ipynb](02_Numpy/Numpy_01.ipynb) |
-| 02 | NumPy | [NumPy.ipynb](02_NumPy/NumPy_02.ipynb)|
+| 02 | NumPy | [NumPy_02.ipynb](02_NumPy/NumPy_02.ipynb)|
 
 ## 🧾학습 진도
 
