@@ -21,13 +21,17 @@
 | 02 | NumPy | [NumPy_04.ipynb](02_NumPy/NumPy_04.ipynb) |
 | 02 | NumPy | [NumPy_05.ipynb](02_NumPy/NumPy_05.ipynb) |
 | 02 | NumPy | [NumPy_06.ipynb](02_NumPy/NumPy_06.ipynb) |
+| 02 | NumPy | [NumPy_07.ipynb](02_NumPy/NumPy_07.ipynb) |
 
 ## 🧾학습 진도
 
 > - 01 IPython과 Jupyter 시작하기(기본 세팅임으로 따로 기록은 하지 않음)
+
 > - 02 NumPy/02-1 파이썬의 데이터 타입 이해하기
 > - 02 NumPy/02-2 NumPy 배열의 기초
 > - 02 NumPy/02-3 NumPy 배열 연산: 유니버설 함수
 > - 02 NumPy/02-4 집계: 최솟값, 최댓값, 그리고 그사이의 모든 것
 > - 02 NumPy/02-5 배열 연산: 브로드캐스팅
 > - 02 NumPy/02-6 비교, 마스크, 부울 로직
+> - 02 NumPy/02-7 팬시 인덱싱
+
